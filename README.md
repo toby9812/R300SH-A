@@ -1,3 +1,4 @@
+R300SH-A
 <img width="1440" height="710" alt="image" src="https://github.com/user-attachments/assets/2bb58268-abcf-4fdb-955c-be02747d440f" />
 <img width="1438" height="229" alt="image" src="https://github.com/user-attachments/assets/5d7b63b7-175d-4f71-afe3-48480c06f396" />
 <img width="446" height="447" alt="image" src="https://github.com/user-attachments/assets/cfc25295-ab98-4b69-a7ec-8d312f8ca848" />
