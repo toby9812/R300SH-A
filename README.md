@@ -12,7 +12,7 @@ R300SH-A
 <img width="372" height="350" alt="image" src="https://github.com/user-attachments/assets/45400cdb-0334-45f6-af9c-84608a308cce" />
 <img width="309" height="644" alt="image" src="https://github.com/user-attachments/assets/413f1a5f-275b-4997-ab88-bca219a54670" />
 <img width="436" height="709" alt="image" src="https://github.com/user-attachments/assets/3516a722-dab2-4041-9933-d532f724ad73" />
-<img width="565" height="166" alt="image" src="https://github.com/user-attachments/assets/85d0617d-82f7-42dd-a30f-bf1cbb79c655" />
+<img width="614" height="270" alt="image" src="https://github.com/user-attachments/assets/fe4dd69e-10f7-470f-bc69-82b42cb40849" />
 <img width="1186" height="579" alt="image" src="https://github.com/user-attachments/assets/3beab424-0102-4442-91cf-12b5e38b6fea" />
 <img width="1186" height="808" alt="image" src="https://github.com/user-attachments/assets/70ceaa9b-8231-4b51-b7e0-4c2af338bab6" />
 <img width="643" height="690" alt="image" src="https://github.com/user-attachments/assets/4278602d-957b-40a8-bf73-5adf0a18d4db" />
